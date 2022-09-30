@@ -10,3 +10,6 @@ ls é a lista de coisas dentro do diretório
 npm é tipo o diretório na web como git e podemos fazer um pull ou push só que através de comandos como no terminal do visual studio code
 npm run dev é para executar o programa
 code . é para abrir o visual studio no diretório que está atualmente
+div é posicionamento é voltada para criar e modificar posições em um site
+h1,h2...etc é tamanho de texto
+p é parágrafo
