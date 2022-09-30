@@ -14,3 +14,10 @@ div é posicionamento é voltada para criar e modificar posições em um site
 <h> é tamanho de texto
 <p> é parágrafo
 <br> pula linha de um parágrafo
+<hr> é uma linha na horizontal
+<a> 
+href é para pegar o endereço
+<form> é um formulário
+<label> é tipo uma legenda
+<input> é um textField(campo de texto)
+<button> é um botão
