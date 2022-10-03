@@ -21,3 +21,8 @@ href é para pegar o endereço
 <label> é tipo uma legenda
 <input> é um textField(campo de texto)
 <button> é um botão
+
+Comandos React
+
+props é propriedades como um objeto
+children
