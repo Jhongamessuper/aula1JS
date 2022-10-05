@@ -15,12 +15,13 @@ div é posicionamento é voltada para criar e modificar posições em um site
 <p> é parágrafo
 <br> pula linha de um parágrafo
 <hr> é uma linha na horizontal
-<a> 
+<a> ele cria uma ligação em uma página que pode conter arquivos, endereços de emails, ligações na mesma página ou endereços na URL. 
 href é para pegar o endereço
 <form> é um formulário
 <label> é tipo uma legenda
 <input> é um textField(campo de texto)
 <button> é um botão
+
 Comandos React
 
 props é propriedades como um objeto
