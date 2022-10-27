@@ -26,3 +26,22 @@ Comandos React
 
 props é propriedades como um objeto
 children
+
+
+npm start
+    Inicia o servidor de desenvolvimento.
+
+  npm run build
+    Agrupa o aplicativo em arquivos estáticos para produção.
+
+  npm test
+    Inicia o executor de teste.
+
+  npm run eject
+    Remove esta ferramenta e copia dependências de compilação, arquivos de configuração
+    e scripts no diretório do aplicativo. Se você fizer isso, você não pode voltar!
+
+Sugerimos que você comece digitando:
+
+  cd site
+  npm start
